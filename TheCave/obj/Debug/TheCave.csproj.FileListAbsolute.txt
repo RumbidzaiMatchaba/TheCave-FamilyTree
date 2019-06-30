@@ -1,0 +1,942 @@
+H:\3rd year\PROJECT\TheCave\TheCave\bin\ApplicationInsights.config
+H:\3rd year\PROJECT\TheCave\TheCave\bin\TheCave.dll.config
+H:\3rd year\PROJECT\TheCave\TheCave\bin\TheCave.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\TheCave.pdb
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\csc.exe
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\csc.exe.config
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\csc.rsp
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\csi.exe
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\csi.exe.config
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\csi.rsp
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.AppContext.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Collections.Immutable.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Console.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Diagnostics.Process.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.IO.Compression.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.IO.Pipes.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Reflection.Metadata.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Security.AccessControl.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Security.Claims.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Security.Principal.Windows.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Threading.Thread.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.ValueTuple.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Xml.XmlDocument.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Xml.XPath.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\vbc.exe
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\vbc.exe.config
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\vbc.rsp
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe
+H:\3rd year\PROJECT\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe.config
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Antlr3.Runtime.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\AspNet.ScriptManager.bootstrap.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\AspNet.ScriptManager.jQuery.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.AI.Agent.Intercept.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.AI.Web.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.ApplicationInsights.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.ScriptManager.WebForms.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.Web.Infrastructure.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Newtonsoft.Json.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\System.Web.Optimization.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\WebGrease.dll
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\3rd year\PROJECT\TheCave\TheCave\bin\System.Web.Optimization.xml
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Antlr3.Runtime.pdb
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Newtonsoft.Json.xml
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.ApplicationInsights.xml
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.xml
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.xml
+H:\3rd year\PROJECT\TheCave\TheCave\bin\Microsoft.AI.Web.xml
+H:\3rd year\PROJECT\TheCave\TheCave\obj\Debug\TheCave.csprojResolveAssemblyReference.cache
+H:\3rd year\PROJECT\TheCave\TheCave\obj\Debug\TheCave.csproj.CoreCompileInputs.cache
+H:\3rd year\PROJECT\TheCave\TheCave\obj\Debug\TheCave.csproj.CopyComplete
+H:\3rd year\PROJECT\TheCave\TheCave\obj\Debug\TheCave.dll
+H:\3rd year\PROJECT\TheCave\TheCave\obj\Debug\TheCave.pdb
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\ApplicationInsights.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\TheCave.dll.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\TheCave.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\TheCave.pdb
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\csc.exe
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\csc.exe.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\csc.rsp
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\csi.exe
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\csi.exe.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\csi.rsp
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.AppContext.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Console.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Compression.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Claims.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.ValueTuple.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\vbc.rsp
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\System.Web.Optimization.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\WebGrease.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\System.Web.Optimization.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.pdb
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\obj\Debug\TheCave.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\obj\Debug\TheCave.pdb
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\obj\Debug\TheCave.csprojAssemblyReference.cache
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CoreCompileInputs.cache
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CopyComplete
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\ApplicationInsights.config
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\TheCave.dll.config
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\TheCave.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\TheCave.pdb
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.exe
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.exe.config
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.rsp
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.exe
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.exe.config
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.rsp
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.AppContext.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Collections.Immutable.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Console.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.Process.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Compression.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Pipes.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Reflection.Metadata.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.AccessControl.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Claims.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Principal.Windows.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Threading.Thread.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.ValueTuple.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XmlDocument.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe.config
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.rsp
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe.config
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.bootstrap.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.jQuery.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Agent.Intercept.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.WebForms.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.Web.Infrastructure.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\System.Web.Optimization.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\WebGrease.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\System.Web.Optimization.xml
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.pdb
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.xml
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.xml
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.xml
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.xml
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.xml
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csprojResolveAssemblyReference.cache
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CoreCompileInputs.cache
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CopyComplete
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.dll
+E:\3rd Year\Year Project (WRRV301)\Real Backup\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.pdb
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\ApplicationInsights.config
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.dll.config
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.pdb
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.exe
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.exe.config
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.rsp
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.exe
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.exe.config
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.rsp
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.AppContext.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Collections.Immutable.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Console.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.Process.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Compression.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Pipes.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Reflection.Metadata.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.AccessControl.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Claims.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Principal.Windows.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Threading.Thread.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.ValueTuple.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XmlDocument.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe.config
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.rsp
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe.config
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.bootstrap.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.jQuery.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Agent.Intercept.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.WebForms.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.Web.Infrastructure.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\System.Web.Optimization.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\WebGrease.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\System.Web.Optimization.xml
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.pdb
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.xml
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.xml
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.xml
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.xml
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.xml
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csprojResolveAssemblyReference.cache
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CoreCompileInputs.cache
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CopyComplete
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.dll
+H:\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.pdb
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\ApplicationInsights.config
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.dll.config
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.pdb
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.exe
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.exe.config
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.rsp
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.exe
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.exe.config
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.rsp
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.AppContext.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Collections.Immutable.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Console.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.Process.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Compression.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Pipes.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Reflection.Metadata.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.AccessControl.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Claims.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Principal.Windows.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Threading.Thread.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.ValueTuple.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XmlDocument.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe.config
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.rsp
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe.config
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.bootstrap.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.jQuery.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Agent.Intercept.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.WebForms.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.Web.Infrastructure.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\System.Web.Optimization.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\WebGrease.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\System.Web.Optimization.xml
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.pdb
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.xml
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.xml
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.xml
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.xml
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.xml
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csprojResolveAssemblyReference.cache
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CoreCompileInputs.cache
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CopyComplete
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.dll
+H:\3rd\Year Project\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.pdb
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\ApplicationInsights.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.dll.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.pdb
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.exe
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.exe.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.rsp
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.exe
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.exe.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.rsp
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.AppContext.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Console.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Compression.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Claims.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.ValueTuple.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.rsp
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\System.Web.Optimization.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\WebGrease.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\System.Web.Optimization.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.pdb
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csprojAssemblyReference.cache
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CoreCompileInputs.cache
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CopyComplete
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.pdb
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\ApplicationInsights.config
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.dll.config
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.pdb
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.exe
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.exe.config
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.rsp
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.exe
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.exe.config
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.rsp
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.AppContext.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Console.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Compression.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Pipes.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Claims.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Threading.Thread.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.ValueTuple.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe.config
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.rsp
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\System.Web.Optimization.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\WebGrease.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\System.Web.Optimization.xml
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.pdb
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.xml
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.xml
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.xml
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csprojResolveAssemblyReference.cache
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CoreCompileInputs.cache
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CopyComplete
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.dll
+C:\Users\s217016960\Desktop\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.pdb
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\ApplicationInsights.config
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.dll.config
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\TheCave.pdb
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.exe
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.exe.config
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csc.rsp
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.exe
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.exe.config
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\csi.rsp
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.AppContext.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Collections.Immutable.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Console.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.Process.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Compression.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.IO.Pipes.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Reflection.Metadata.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.AccessControl.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Claims.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Security.Principal.Windows.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Threading.Thread.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.ValueTuple.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XmlDocument.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.exe.config
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\vbc.rsp
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe.config
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.bootstrap.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\AspNet.ScriptManager.jQuery.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Agent.Intercept.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ScriptManager.WebForms.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.Web.Infrastructure.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\System.Web.Optimization.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\WebGrease.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\System.Web.Optimization.xml
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Antlr3.Runtime.pdb
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Newtonsoft.Json.xml
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.ApplicationInsights.xml
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.xml
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.xml
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\bin\Microsoft.AI.Web.xml
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csprojResolveAssemblyReference.cache
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CoreCompileInputs.cache
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.csproj.CopyComplete
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.dll
+H:\TheCave (2)\TheCave\TheCave\TheCave\TheCave\TheCave\obj\Debug\TheCave.pdb
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\ApplicationInsights.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\TheCave.dll.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\TheCave.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\TheCave.pdb
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\csc.exe
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\csc.exe.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\csc.rsp
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\csi.exe
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\csi.exe.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\csi.rsp
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.AppContext.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Console.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.IO.Compression.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Security.Claims.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.ValueTuple.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\vbc.exe
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\vbc.exe.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\vbc.rsp
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Antlr3.Runtime.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.AI.Web.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Newtonsoft.Json.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\System.Web.Optimization.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\WebGrease.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\System.Web.Optimization.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Antlr3.Runtime.pdb
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Newtonsoft.Json.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\bin\Microsoft.AI.Web.xml
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\obj\Debug\TheCave.csprojAssemblyReference.cache
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\obj\Debug\TheCave.csproj.CoreCompileInputs.cache
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\obj\Debug\TheCave.csproj.CopyComplete
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\obj\Debug\TheCave.dll
+C:\Users\Keenan\Documents\3rd Year\Year Project (WRRV301)\Code\TheCave (2)\TheCave\TheCave\obj\Debug\TheCave.pdb
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\ApplicationInsights.config
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\TheCave.dll.config
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\TheCave.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\TheCave.pdb
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\csc.exe
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\csc.exe.config
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\csc.rsp
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\csi.exe
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\csi.exe.config
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\csi.rsp
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.AppContext.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Console.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.IO.Compression.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.Claims.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.ValueTuple.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\vbc.exe
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\vbc.exe.config
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\vbc.rsp
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Antlr3.Runtime.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.Web.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Newtonsoft.Json.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\System.Web.Optimization.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\WebGrease.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\System.Web.Optimization.xml
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Antlr3.Runtime.pdb
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Newtonsoft.Json.xml
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.Web.xml
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\obj\Debug\TheCave.csprojResolveAssemblyReference.cache
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\obj\Debug\TheCave.dll
+C:\Users\ruj\Desktop\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\obj\Debug\TheCave.pdb
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\ApplicationInsights.config
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\TheCave.dll.config
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\TheCave.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\TheCave.pdb
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\csc.exe
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\csc.exe.config
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\csc.rsp
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\csi.exe
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\csi.exe.config
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\csi.rsp
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.AppContext.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Console.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.IO.Compression.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.Claims.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.ValueTuple.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\vbc.exe
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\vbc.exe.config
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\vbc.rsp
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Antlr3.Runtime.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.Web.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Newtonsoft.Json.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\System.Web.Optimization.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\WebGrease.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\System.Web.Optimization.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Antlr3.Runtime.pdb
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Newtonsoft.Json.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\bin\Microsoft.AI.Web.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\obj\Debug\TheCave.csprojResolveAssemblyReference.cache
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\obj\Debug\TheCave.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\The Actual Cave\TheCave (22Oct_1am)\TheCave\TheCave\obj\Debug\TheCave.pdb

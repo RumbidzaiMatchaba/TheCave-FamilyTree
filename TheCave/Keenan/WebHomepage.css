@@ -1,0 +1,127 @@
+﻿html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+/* Responsive: Portrait tablets and up 
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }*/
+
+
+    html {
+        position: fixed;
+        padding: 0;
+        background-image: url(../Keenan/Images/Background.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .heading {
+        text-align: center;
+    }
+
+        .heading > h1 {
+            font-size: 40px;
+            color: white;
+        }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+        font-size: 40px;
+        margin-top: 60px;
+    }
+
+    #AboutUsParagraph {
+        padding: 20px;
+        margin-top: 0;
+        text-align: justify;
+    }
+
+    #InfoParagraph {
+        color: white;
+        padding: 20px;
+        margin-top: -5px;
+        text-align: justify;
+        font-size: 22px;
+    }
+
+    .custom-nav {
+        background: linear-gradient(rgb(222, 145, 76),rgb(211, 138, 70),rgba(220, 141, 72,0.0));
+        height: 70px;
+        width: 100%;
+        padding-right: 0;
+        /*position:fixed;*/
+        margin: 0 0 0 0;
+        /*margin-top: -150px;*/
+        /*text-shadow: 1px 1px black;*/
+    }
+
+        .custom-nav #logo {
+            color: #fff;
+            padding: 10px 0 0 25px;
+            font-size: 30px;
+        }
+
+        .custom-nav #logo, #nav-links {
+            display: inline-block;
+        }
+
+        .custom-nav #nav-links {
+            list-style: none;
+            /*padding: 0;*/
+            position: absolute;
+            margin-top: 0;
+            top: 0;
+            right: 0;
+            padding: 10px 25px 0 0;
+            color: white;
+        }
+
+            .custom-nav #nav-links > li {
+                color: white;
+                display: inline-block;
+                padding-right: 20px;
+                font-size: 24px;
+            }
+
+    #learn {
+        text-align: center;
+        color: white;
+        position: center;
+        font-size: 20px;
+        /*margin-top: 150px;*/
+    }
+
+    #signUp {
+        text-align: center;
+        text-decoration: none;
+        color: rgb(252, 203, 156);
+        position: center;
+        margin-top: 0;
+        margin-left: 250px;
+        margin-right: 250px;
+        background-color: rgba(255, 106, 0, 0.6);
+        font-size: 20px;
+        /*text-shadow: 1px 1px black;*/
+    }
+
+    #loginButton, #loginBut, #JoinFamily {
+        color: white;
+    }
+
+    #signlink, #Infolink, #AboutUsLink, #AboutUsParagraph, #logoLink {
+        color: white;
+    }
+
+    #Login1 {
+        margin-top: -20px;
+        left: 100px;
+    }
